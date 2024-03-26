@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('beans.png'); /* Adjust the path and file name */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .container {
+    background: linear-gradient(to bottom, #d2b48c, #8b4513); /* Adjust the gradient colors */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 50px;
+  }
+  
+  .header {
+    background-image: url('beans.png'); 
+    height: 200px; /* Adjust as needed */
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .title img {
+    vertical-align: middle;
+    width: 30px; /* Adjust size as needed */
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .menu {
+    border-top: 2px solid red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border-bottom: 1px solid white;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #a17a58;
+    color: white;
+  }
+  
+  .red-line {
+    border-color: red;
+  }
+
+
+.menu th {
+    text-align: center;
+  }
+  td{
+    text-align: center;
+  }
+  
